@@ -1,4 +1,4 @@
-# Task 3 - Data Analyst
+# Task 4 - Data Analyst
 
 ## Overview
 This task demonstrates SQL data analysis on a products database
