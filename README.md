@@ -1,19 +1,28 @@
-# Task 4 - Data Analyst
+# Task 4 - Dashboard Design
 
 ## Overview
-This task demonstrates SQL data analysis on a products database
+
+This task involved designing an interactive dashboard for business stakeholders to track key performance indicators.
 
 ## Tools Used
-- MySQL Workbench, MySQL Server
 
-## Queries
-- SELECT, WHERE, GROUP BY
-- Joins: INNER JOIN, LEFT JOIN
-- Subqueries and Aggregate Functions
-- Created Views
+- Power BI
 
-## Output
-Screenshots are attached in the repository
+## Objectives
+
+- Build an interactive dashboard
+- Track KPIs like sales, profit, and growth
+- Enable filtering and navigation
+
+## Approach
+
+A clean, interactive dashboard was created with slicers and time-series charts. Focus was placed on usability and performance tracking.
+
+## Deliverables
+
+- Interactive dashboard
+- Summary slides
 
 ## Author
+
 Syed Ahmed Ali
